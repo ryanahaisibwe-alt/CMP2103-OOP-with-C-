@@ -3,3 +3,5 @@
 // Buffers can be created around points, lines, or polygons and are commonly used in GIS for proximity and spatial analysis.
 
 // Write a program that creates buffers of different sizes around a specific point coordinate and returns the points in a given set that lie within each buffer.
+#include <iostream>
+#include <vector>
